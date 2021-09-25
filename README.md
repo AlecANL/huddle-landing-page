@@ -25,8 +25,8 @@ Want some support on the challenge? [Join our Slack community](https://www.front
 
 ### Links
 
-- Solution URL: [repo](https://your-solution-url.com)
-- Live Site URL: [live demo](https://your-live-site-url.com)
+- Solution URL: [repo](https://github.com/AlecANL/huddle-landing-page)
+- Live Site URL: [live demo](https://alecanl.github.io/huddle-landing-page/)
 
 ## My process
 
