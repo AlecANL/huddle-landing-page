@@ -32,10 +32,18 @@ h3,
 h4,
 h5,
 h6,
-button,
-a {
+button {
   font-family: var(--headingFont);
   margin: 0;
+}
+ul {
+  margin: 0;
+  padding: 0;
+  list-style-type: none;
+}
+a {
+  text-decoration: none;
+  font-family: var(--bodyFont);
 }
 img {
   max-inline-size: 100%;
